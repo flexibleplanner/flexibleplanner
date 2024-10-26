@@ -1,23 +1,23 @@
 
-**End-User License Agreement (EULA) of the "Flexible Planner" application**
+**End-User License Agreement (EULA) of the "Plany" application**
 
-This End-User License Agreement ("EULA") is a legal agreement between you and this `Flexible Planner` app providers.
+This End-User License Agreement ("EULA") is a legal agreement between you and this `Plany` app providers.
 
-This EULA agreement governs your acquisition and use of our `Flexible Planner` application directly from us or indirectly through an authorized reseller or distributor.
+This EULA agreement governs your acquisition and use of our `Plany` application directly from us or indirectly through an authorized reseller or distributor.
 
-Please read this EULA agreement carefully before completing the installation process and using the `Flexible Planner` software. It provides a license to use the `Flexible Planner` software and contains warranty information and liability disclaimers.
+Please read this EULA agreement carefully before completing the installation process and using the `Plany` software. It provides a license to use the `Plany` software and contains warranty information and liability disclaimers.
 
-If you register for a free trial of the `Flexible Planner` application, this EULA agreement will also govern that trial. By clicking "accept" or installing and/or using the `Flexible Planner` application, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.
+If you register for a free trial of the `Plany` application, this EULA agreement will also govern that trial. By clicking "accept" or installing and/or using the `Plany` application, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.
 
 If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the application, and you must not accept this EULA agreement.
 
-This EULA agreement shall apply only to the `Flexible Planner` application supplied herewith regardless of whether other software is referred to or described herein. The terms also apply to any of our updates, supplements, Internet-based services, and support services for the application, unless other terms accompany those items on delivery. If so, those terms apply.
+This EULA agreement shall apply only to the `Plany` application supplied herewith regardless of whether other software is referred to or described herein. The terms also apply to any of our updates, supplements, Internet-based services, and support services for the application, unless other terms accompany those items on delivery. If so, those terms apply.
 
 *License Grant*
 
-We hereby grant you a personal, non-transferable, non-exclusive license to use the `Flexible Planner` application on your devices in accordance with the terms of this EULA agreement.
+We hereby grant you a personal, non-transferable, non-exclusive license to use the `Plany` application on your devices in accordance with the terms of this EULA agreement.
 
-You are permitted to load the `Flexible Planner` application (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the `Flexible Planner` application.
+You are permitted to load the `Plany` application (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the `Plany` application.
 
 *You are not permitted to:*
 
