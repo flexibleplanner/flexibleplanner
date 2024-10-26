@@ -15,7 +15,7 @@ This EULA agreement shall apply only to the `Flexible Planner` application suppl
 
 *License Grant*
 
-We hereby grant you a personal, non-transferable, non-exclusive license to use the `Flexible Planner` application on your devices in accordance with the terms of this EULA agreement.
+We hereby grant you a personal, non-transferable, non-exclusive licence to use the `Flexible Planner` application on your devices in accordance with the terms of this EULA agreement.
 
 You are permitted to load the `Flexible Planner` application (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the `Flexible Planner` application.
 
@@ -31,7 +31,7 @@ You are permitted to load the `Flexible Planner` application (for example a PC, 
 
 We shall at all times retain ownership of the application as originally downloaded by you and all subsequent downloads of the application by you. The application (and the copyright, and other intellectual property rights of whatever nature in the application, including any modifications made thereto) are and shall remain the property of us.
 
-We reserve the right to grant licenses to use the application to third parties.
+We reserve the right to grant licences to use the application to third parties.
 
 *Termination*
 
